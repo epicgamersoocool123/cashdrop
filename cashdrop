@@ -657,7 +657,7 @@ local PuppywareModule = {
     }
 }
 
-local Window = Library:CreateWindow("FarzadSexyWare.cc", Vector2.new(492, 598), Enum.KeyCode.RightShift)
+local Window = Library:CreateWindow("FarzadSexyWare.cc               Dupe Gui", Vector2.new(492, 598), Enum.KeyCode.RightShift)
 -- Blatant Tab --
 
 local BlatantTab = Window:CreateTab("Rage")
